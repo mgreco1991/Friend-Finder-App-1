@@ -1,0 +1,21 @@
+{
+  "name": "Friend-Finder-App-1",
+  "version": "1.0.0",
+  "description": "This is an application that allows the user to take a personality \"test\" in order to locate people who are compatible friendship-wise with the user.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgreco1991/Friend-Finder-App-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgreco1991/Friend-Finder-App-1/issues"
+  },
+  "homepage": "https://github.com/mgreco1991/Friend-Finder-App-1#readme"
+}
